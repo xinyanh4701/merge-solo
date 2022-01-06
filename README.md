@@ -1,6 +1,6 @@
 # merge-solo
 one
-two
+one
 three
 four
 five
