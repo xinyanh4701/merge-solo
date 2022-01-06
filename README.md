@@ -1,7 +1,7 @@
 # merge-solo
 
 one
-two
+is
 three
-four
+hero
 five
