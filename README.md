@@ -1,7 +1,7 @@
 # merge-solo
 
-three
 one
-four
+two
+three
 four
 five
