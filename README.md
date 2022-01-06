@@ -1,7 +1,6 @@
 # merge-solo
 
-one
+zero
 is
-three
+the
 hero
-five
