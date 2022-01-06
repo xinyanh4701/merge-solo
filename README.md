@@ -1,5 +1,5 @@
 # merge-solo
-one
+two
 two
 three
 four
